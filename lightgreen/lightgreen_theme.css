@@ -1,0 +1,59 @@
+.root {
+    background_color: #C7EDCC;
+	-fx-base: #C7EDCC;
+}
+
+/* To be used in "background" Panes */
+.background{
+    -fx-background-color: #C7EDCC;
+}
+
+
+.text-input {
+    -fx-background-color: #C7EDCC;
+}
+
+.list-view {
+    -fx-background-color: #C7EDCC;
+}
+
+.list-view .list-cell:even {
+	-fx-background-color: #C7EDCC;
+}
+.list-view .list-cell:odd {
+	-fx-background-color: #C7EDCC;
+}
+
+.table-view {
+    -fx-background-color: #C7EDCC;
+}
+
+.table-view .table-row-cell:even {
+    -fx-background-color: #C7EDCC;
+}
+
+.table-view .table-row-cell:odd  {
+    -fx-background-color: #C7EDCC;
+}
+
+.table-view .table-row-cell:filled:selected  {
+    -fx-background-color: #C7EDCC;
+	-fx-text-fill: black;
+}
+
+
+
+.tree-view {
+    -fx-background-color: #C7EDCC;
+}
+
+.tree-table-view {
+    -fx-background-color: #C7EDCC;
+}
+
+.tree-table-view .tree-table-cell{
+	-fx-background-color: #C7EDCC;
+}
+
+
+
