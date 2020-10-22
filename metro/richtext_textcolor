@@ -1,6 +1,10 @@
-.styled-text-area .text {
-	 		-fx-fill: white;
-	 		}
-    		.styled-text-area .caret {
-      		  -fx-stroke: white;
-    		}
+.bracket{
+-fx-fill: red !important; 
+}	
+.text {
+-fx-fill: white;
+}
+.styled-text-area .caret {
+-fx-stroke: white;
+}
+		
